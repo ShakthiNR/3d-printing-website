@@ -51,7 +51,7 @@ export const LastContent = () => {
         your prototypes and gifts printed quickly without compromising quality.
         Custom Designs – Bring your ideas to life with fully customized 3D
         designs. Eco-Friendly Materials – Choose from a variety of sustainable
-        and high-quality materials. <a href="mailto:someone@example.com">Reach out to us</a> for custom 3D printing services! 
+        and high-quality materials. <a href="mailto:roopsroopsroops17@gmail.com">Reach out to us</a> for custom 3D printing services! 
       </section>
     </main>
   );
