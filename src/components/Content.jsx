@@ -45,7 +45,7 @@ export default Content;
 export const LastContent = () => {
   return (
     <main className="content container">
-      <section className="">
+      <section>
         Why Choose Us? High-Quality Prints – We use advanced 3D printing
         technology to ensure precision and durability. Fast Turnaround – Get
         your prototypes and gifts printed quickly without compromising quality.
