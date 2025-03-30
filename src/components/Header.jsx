@@ -3,10 +3,9 @@ import React from 'react'
 const Header = () => {
   return (
     <header className='header'>
-      <section className='header-logo' style={{ background: "black"}}>
+      <section className='header-logo' style={{ background: "black", cursor: "pointer" }}>
         <img src='/logo.jpeg' alt='logo' style={{ width: "40px", height: "40px"}}/>
         <p>GVG Services</p>
-         
       </section>
       <section className='header-text'>
         <p> 
