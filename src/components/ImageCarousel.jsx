@@ -13,6 +13,12 @@ import ReactPlayer from 'react-player'
 const ImageCarousel = () => {
   const images = [
     {
+      id: 5,
+      author: "video2",
+      type: "video",
+      url: video2
+    },
+    {
       id: 1,
       author: "Image1",
       type: "image",
@@ -35,13 +41,7 @@ const ImageCarousel = () => {
       author: "video1",
       type: "video",
       url: video1
-    },
-    {
-      id: 5,
-      author: "video2",
-      type: "video",
-      url: video2
-    },
+    }
   ];
   return (
       <Carousel
