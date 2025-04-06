@@ -108,6 +108,9 @@ header section img {
   .video-player {
     height: 100px;
   }
+  .animated-gradient-text { 
+    padding: 0.5rem !important;
+  }
 }
 
 
